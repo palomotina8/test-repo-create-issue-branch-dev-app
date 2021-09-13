@@ -1,7 +1,8 @@
 branchName: '${issue.title,}--issue-${issue.number}^'
 mode: auto
 defaultBranch: 'master'
-openDraftPR: true
+openPR: true
+copyIssueLabelsToPR: true
 branches:
   - label: question
     skip: true
