@@ -3,6 +3,7 @@ mode: auto
 defaultBranch: 'master'
 openPR: true
 copyIssueLabelsToPR: true
+copyIssueProjectsToPR: true
 branches:
   - label: question
     skip: true
