@@ -6,8 +6,3 @@ copyIssueDescriptionToPR: true
 copyIssueLabelsToPR: true
 copyIssueProjectsToPR: true
 copyIssueMilestoneToPR: true
-branches:
-  - label: question
-    skip: true
-  - label: '*'
-    name: main
