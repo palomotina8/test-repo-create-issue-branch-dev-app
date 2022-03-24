@@ -1,8 +1,0 @@
-branchName: '${issue.title,}--issue-${issue.number}^'
-mode: auto
-defaultBranch: 'doesnotexist'
-openPR: true
-copyIssueDescriptionToPR: true
-copyIssueLabelsToPR: true
-copyIssueProjectsToPR: true
-copyIssueMilestoneToPR: true
