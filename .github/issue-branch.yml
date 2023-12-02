@@ -1,7 +1,7 @@
 mode: immediate
+openPR: true
 prSkipCI: true
 copyIssueDescriptionToPR: true
 copyIssueLabelsToPR: true
 copyIssueAssigneeToPR: true
-openPR: true
 commentMessage: "✅ Work Branch Created!\n```git checkout ${branchName}```\ncopy this 👆"
